@@ -1,3 +1,13 @@
 What happens when you initialize a repository? Why do you need to do it?
 	A. It creates the required git configuration directory and data store.
 	B. You need to initialize the git configuration.
+	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	A. Staging area is temp directory.
+	B. Allows you to experiment before committing to a change.
+	
+How can you use the staging area to make sure you have one commit per logical change?
+	A. Only add files to the staging that are part of the logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	A. Keep really big experimental changes separate from normal changes.
