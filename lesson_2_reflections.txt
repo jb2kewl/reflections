@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+	A. It creates the required git configuration directory and data store.
+	B. You need to initialize the git configuration.
