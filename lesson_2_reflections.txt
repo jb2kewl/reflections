@@ -26,4 +26,15 @@ What are the pros and cons of Git’s automatic merging vs. always doing merges ma
 	Con
 	If the change is in the same area as another it will fail.
 	If the change fails you must manually fix it.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	fork - basically cloning another users project via github while providing credit to them and allowing call backs to their code.
+	clone - downloading all files and logs of a project to another location.
+	branches - create experimental versions or additions to code which you can merge back to the master if you want later.
 	
+	Use a fork when you don't have access to another persons project on github
+	Use clone when you want to copy all files and logs of a project to another location.
+	Use branches when you want to experiment with some code and not break your master branch.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	Being able to diff and merge the copies.
