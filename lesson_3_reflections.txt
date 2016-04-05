@@ -1,1 +1,5 @@
 Creating new File on GitHub
+When would you want to use a remote repository rather than keeping all your work local?
+  Pretty much always for backup purposes.
+  When you want to collaborate with others.
+  When you want to share you code with others.
